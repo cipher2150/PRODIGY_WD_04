@@ -1,0 +1,82 @@
+* {
+    border: 0px;
+}
+
+.locating-department {
+    background-color: transparent;
+}
+
+.profile-logo-box{
+    background-image: radial-gradient(rgb(105, 60, 90), white);
+    border-radius: 5px;
+    padding: 3px;
+}
+.profile-logo{
+    width: 1.4em;
+}
+
+.card {
+    border: none;
+    background-image: radial-gradient(white, rgb(95, 76, 104));
+}
+.detail-container {
+    width: 300px;
+    background-image: url("profile_pic.jpg");
+    background-size: cover;
+    height: 400px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border: 2px solid rgb(247, 151, 42);
+}
+.about-me {
+    color: rgb(255, 170, 1);
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+.more {
+    color: rgb(86, 64, 87);
+}
+.custome-button {
+    width: 130px;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-image: radial-gradient(pink, rgb(203, 201, 201));
+}
+#special-button {
+    background-color: transparent;
+    width: 130px;
+    border: 3px solid pink;
+    color: rgb(246, 133, 5);
+    border-radius: 15px;
+    font-weight: 550;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
