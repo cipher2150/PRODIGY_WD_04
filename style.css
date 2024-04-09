@@ -3,7 +3,7 @@
 }
 
 .locating-department {
-    background-color: transparent;
+    background-image: radial-gradient(rgba(77, 79, 63, 0.634), rgb(247, 168, 168));
 }
 
 .profile-logo-box{
@@ -23,6 +23,7 @@
     width: 300px;
     background-image: url("profile_pic.jpg");
     background-size: cover;
+    margin-top: 20px;
     height: 400px;
     padding: 15px;
     border-top-left-radius: 15px;
@@ -53,6 +54,43 @@
     font-weight: 550;
 }
 
+.subtitle{
+    font-size: 20px;
+    font-weight: 600;
+}
+.project-name{
+    font-size: 19px;
+    font-weight: 550;
+    color: rgb(67, 89, 89);
+}
+.project-container{
+    border-radius: 15px;
+}
+.project-image{
+    width: 80%;  
+    border: 5px solid pink;
+    padding: 1px;
+    border-radius: 10px;
+}
+.link{
+    color: white;
+    font-weight: 600;
+}
+
+.contact-detail-logo {
+    background-image: radial-gradient(rgb(255, 255, 255), rgb(159, 154, 154));
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.contact-logo{
+    color: rgb(71, 71, 71);
+}
+.contact-detail {
+    margin-bottom: 60px;
+}
 
 
 
